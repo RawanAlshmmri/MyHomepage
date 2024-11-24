@@ -11,3 +11,7 @@ Changes between initial commit and feature commit:
 Changes between bug commit and bug fix:
 - Fixed missing closing tag for paragraph in <p> element.
 - Fixed missing closing tag for heading in <h1> element.
+
+git add comparison.txt
+git commit -m "Added comparison summary"
+git push origin main
