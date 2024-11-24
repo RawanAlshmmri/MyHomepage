@@ -1,1 +1,13 @@
+Changes between initial commit and feature commit:
+- Added navigation bar with links:
+  - <a href="#SCM">SCM</a>
+  - <a href="#Check_In">Check In</a>
+  - <a href="#Check_Out">Check Out</a>
+- Added three new sections:
+  - SCM
+  - Check In
+  - Check Out
 
+Changes between bug commit and bug fix:
+- Fixed missing closing tag for paragraph in <p> element.
+- Fixed missing closing tag for heading in <h1> element.
